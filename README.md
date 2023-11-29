@@ -8,7 +8,7 @@ I'm Maria and I'm a Frontend developer from Saint-Petersburg👩‍💻
 
 ### About me:
 - 💻 I’m currently working on ReactJS
-- 🎓 I’m learning TypeScript, JS improvements right now
+- 🎓 I’m learning TypeScript and JS improvements right now
 - 💬 Ask me about tech, math, psychology and dancing
 
 ### Connect with me:
